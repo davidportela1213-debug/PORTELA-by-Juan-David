@@ -1,0 +1,26 @@
+PORTELA by Juan David — Mapa del portafolio fotográfico
+
+Se incluyen 5 pares Antes/Después entregados por Juan David.
+La correspondencia se organizó por coincidencia visual, no por orden de subida.
+
+01 — caso-01-cristo
+ANTES: imagen nocturna del Cristo y escenario
+DESPUÉS: misma escena con tratamiento visual final
+
+02 — caso-02-retrato-primer-plano
+ANTES: retrato de primer plano con gorra roja
+DESPUÉS: tratamiento final del mismo retrato
+
+03 — caso-03-retrato-gorra-verde
+ANTES: retrato frente al espejo con gorra beige y camiseta verde
+DESPUÉS: tratamiento final del mismo retrato
+
+04 — caso-04-retrato-cabeza-rapada
+ANTES: retrato frente al espejo con cabeza rapada y camiseta verde
+DESPUÉS: tratamiento final del mismo retrato
+
+05 — caso-05-retrato-gorro-tejido
+ANTES: retrato frente al espejo con gorro tejido
+DESPUÉS: tratamiento final del mismo retrato
+
+No se agregan métricas, clientes, testimonios ni resultados comerciales no proporcionados.

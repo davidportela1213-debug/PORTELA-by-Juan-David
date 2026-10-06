@@ -1,0 +1,78 @@
+{
+  "brand": "PORTELA by Juan David",
+  "projects": [
+    {
+      "title": "La Sombra",
+      "subtitle": "Apropiación audiovisual de Nosferatu",
+      "category": "Audiovisual",
+      "url": "https://youtu.be/j9rY5w9dwIM?si=FL5HHjfXrFfEX-pp"
+    },
+    {
+      "title": "Mi vida cotidiana",
+      "subtitle": "Entre planos y emociones",
+      "category": "Audiovisual",
+      "url": "https://youtu.be/2uNMrIHtLxM?si=AQKgKGeldfV-hKIP"
+    },
+    {
+      "title": "El grafiti en Colombia",
+      "subtitle": "Arte, Protesta y Memoria",
+      "category": "Audiovisual",
+      "url": "https://youtu.be/ZvVqeTGYHt0?si=VMfE4_XkCwVDqtS-"
+    },
+    {
+      "title": "Baby Shower de Thomas",
+      "subtitle": "Invitación digital interactiva",
+      "category": "Experiencia digital",
+      "url": "https://davidportela1213-debug.github.io/baby-shower-thomas/"
+    },
+    {
+      "title": "El Universo de Yangie",
+      "subtitle": "Experiencia digital personalizada",
+      "category": "Experiencia digital",
+      "url": "https://eluniversodeyangie-snowy.vercel.app/"
+    }
+  ],
+  "contact": {
+    "email": "davidportela1213@gmail.com",
+    "instagram": "https://www.instagram.com/david.jd_/",
+    "instagramUser": "@DAVID.JD_",
+    "whatsapp": "https://api.whatsapp.com/send/?phone=%2B573107915675&text&type=phone_number&app_absent=0"
+  },
+  "photographyPortfolio": [
+    {
+      "title": "Caso fotográfico 01",
+      "subtitle": "Antes / Después",
+      "category": "Fotografía y edición",
+      "before": "assets/portfolio/fotografia/caso-01-cristo/antes.jpg",
+      "after": "assets/portfolio/fotografia/caso-01-cristo/despues.jpg"
+    },
+    {
+      "title": "Caso fotográfico 02",
+      "subtitle": "Antes / Después",
+      "category": "Fotografía y edición",
+      "before": "assets/portfolio/fotografia/caso-02-retrato-primer-plano/antes.jpg",
+      "after": "assets/portfolio/fotografia/caso-02-retrato-primer-plano/despues.jpg"
+    },
+    {
+      "title": "Caso fotográfico 03",
+      "subtitle": "Antes / Después",
+      "category": "Fotografía y edición",
+      "before": "assets/portfolio/fotografia/caso-03-retrato-gorra-verde/antes.jpg",
+      "after": "assets/portfolio/fotografia/caso-03-retrato-gorra-verde/despues.jpg"
+    },
+    {
+      "title": "Caso fotográfico 04",
+      "subtitle": "Antes / Después",
+      "category": "Fotografía y edición",
+      "before": "assets/portfolio/fotografia/caso-04-retrato-cabeza-rapada/antes.jpg",
+      "after": "assets/portfolio/fotografia/caso-04-retrato-cabeza-rapada/despues.jpg"
+    },
+    {
+      "title": "Caso fotográfico 05",
+      "subtitle": "Antes / Después",
+      "category": "Fotografía y edición",
+      "before": "assets/portfolio/fotografia/caso-05-retrato-gorro-tejido/antes.jpg",
+      "after": "assets/portfolio/fotografia/caso-05-retrato-gorro-tejido/despues.jpg"
+    }
+  ]
+}

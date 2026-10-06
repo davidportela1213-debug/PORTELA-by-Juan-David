@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1000" role="img" aria-labelledby="title desc">
+  <title id="title">PORTELA isotipo círculo y estrella</title>
+  <desc id="desc">Círculo abierto dorado con estrella de ocho puntas.</desc>
+  <defs>
+    <linearGradient id="gold" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#F8D98A"/>
+      <stop offset="0.35" stop-color="#D4A64A"/>
+      <stop offset="0.65" stop-color="#A96E18"/>
+      <stop offset="1" stop-color="#F2C45D"/>
+    </linearGradient>
+    <radialGradient id="starGlow">
+      <stop offset="0" stop-color="#FFFDF2"/>
+      <stop offset="0.12" stop-color="#FFF1B8"/>
+      <stop offset="0.45" stop-color="#E9B64F" stop-opacity=".55"/>
+      <stop offset="1" stop-color="#E9B64F" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="softGlow" x="-80%" y="-80%" width="260%" height="260%">
+      <feGaussianBlur stdDeviation="10"/>
+    </filter>
+  </defs>
+
+  <!-- Open circular symbol -->
+  <path d="M 665 180 A 335 335 0 1 0 805 505"
+        fill="none" stroke="url(#gold)" stroke-width="34" stroke-linecap="butt"/>
+
+  <!-- Subtle star glow -->
+  <circle cx="755" cy="210" r="105" fill="url(#starGlow)" filter="url(#softGlow)"/>
+
+  <!-- Eight-point star -->
+  <path d="M755 115 L768 194 L845 210 L768 226 L755 305 L742 226 L665 210 L742 194 Z
+           M755 155 L763 202 L810 210 L763 218 L755 265 L747 218 L700 210 L747 202 Z"
+        fill="url(#gold)" fill-rule="evenodd"/>
+  <circle cx="755" cy="210" r="10" fill="#FFFDF0"/>
+</svg>

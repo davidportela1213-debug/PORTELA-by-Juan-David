@@ -1,0 +1,22 @@
+PORTELA by Juan David
+
+WhatsApp:
+https://api.whatsapp.com/send/?phone=%2B573107915675&text&type=phone_number&app_absent=0
+
+Instagram:
+https://www.instagram.com/david.jd_/
+
+Usuario de Instagram:
+@DAVID.JD_
+
+Correo:
+davidportela1213@gmail.com
+
+CTA sugerido para el sitio:
+Hablemos por WhatsApp
+
+CTA secundario:
+Visita mi Instagram
+
+QR:
+QR_Instagram_DAVID_JD.jpg
